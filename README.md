@@ -1,4 +1,4 @@
-# Chebyshev Polynomial Implementation with Qiskit
+# Quantum Monte Carlo Implementation of Chebyshev Polynomial
 
 ## Table of Contents
 - [Introduction](#introduction)
